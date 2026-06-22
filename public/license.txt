@@ -1,0 +1,23 @@
+AQSA HOTELS — INVOICE MANAGEMENT SOFTWARE
+END USER LICENSE AGREEMENT
+
+This software is licensed, not sold. By installing this software you agree to the following terms:
+
+1. LICENSE GRANT
+   You are granted a non-exclusive, non-transferable license to install and use this software
+   solely for internal hotel invoice management purposes.
+
+2. DATA
+   All invoice data is stored locally on your device. Aqsa Hotels does not collect or transmit
+   your invoice data without your explicit consent.
+
+3. UPDATES
+   Updates are provided free of charge. Installing an update preserves all existing data.
+
+4. RESTRICTIONS
+   You may not redistribute, reverse engineer, or resell this software.
+
+5. DISCLAIMER
+   This software is provided "as is" without warranty of any kind.
+
+© 2025 Aqsa Hotels. All rights reserved.
